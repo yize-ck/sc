@@ -1,4 +1,4 @@
-CCTV#genre#
+CCTV,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -250,7 +250,7 @@ CCTV13听电视,http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 爵士FM,http://lhttp.qingting.fm/live/20207764/64k.mp3
 亚洲音乐台,http://lhttp.qingting.fm/live/5022405/64k.mp3
 听越剧,http://lhttp.qingting.fm/live/20500178/64k.mp3
-4k#genre#
+4k,#genre#
 CCTV4k,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV4k,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 TRT4K,http://tv-trtarabi.live.trt.com.tr/master.m3u8
@@ -258,7 +258,7 @@ TRT4K,http://tv-trtarabi.live.trt.com.tr/master.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 FashionTV4K,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 湖南卫视（4k）,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江苏台#genre#
+江苏台,#genre#
 江苏卫视,https://iptv.luas.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/8c0352e42d-0-0-2529f61c8f420136013f1ab8a93169c3/index.m3u8
 江苏卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 江苏卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240133_1/playlist.m3u8?CONTENTID=00000110240133_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -269,7 +269,7 @@ FashionTV4K,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 南京信息,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南京生活,https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 南京教科,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-港澳台#genre#
+港澳台,#genre#
 翡翠台 1,http://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台 2,http://sc2022.stream-link.org/tv2306.php?id=h02
 凤凰资讯,http://103.112.191.9:880/LAOSAT1068.m3u8
@@ -310,7 +310,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新闻,http://sc2022.stream-link.org/tv2306.php?id=t03
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立新闻,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
-海外新闻#genre#
+海外新闻,#genre#
 ABC News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 AlJazeera,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -329,4 +329,3 @@ Sky News,http://sc2022.stream-link.org/tv2306.php?id=e16
 NHK world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
  ABC News (Australia) ,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 RT News ,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-

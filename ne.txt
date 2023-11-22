@@ -1,3 +1,5 @@
+IPV6,#genre#
+CCTV6,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
 CCTV,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
